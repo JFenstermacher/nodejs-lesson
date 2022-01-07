@@ -1,0 +1,3018 @@
+{
+  "Alabama": [
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 4903185,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 4887871,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 4874747,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 4863300,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 4858979,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 4849377,
+      "Slug State": "alabama"
+    },
+    {
+      "ID State": "04000US01",
+      "State": "Alabama",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 4833722,
+      "Slug State": "alabama"
+    }
+  ],
+  "Alaska": [
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 731545,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 737438,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 739795,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 741894,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 738432,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 736732,
+      "Slug State": "alaska"
+    },
+    {
+      "ID State": "04000US02",
+      "State": "Alaska",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 735132,
+      "Slug State": "alaska"
+    }
+  ],
+  "Arizona": [
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 7278717,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 7171646,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 7016270,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 6931071,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 6828065,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 6731484,
+      "Slug State": "arizona"
+    },
+    {
+      "ID State": "04000US04",
+      "State": "Arizona",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 6626624,
+      "Slug State": "arizona"
+    }
+  ],
+  "Arkansas": [
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3017804,
+      "Slug State": "arkansas"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3013825,
+      "Slug State": "arkansas"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 3004279,
+      "Slug State": "arkansas"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 2988248,
+      "Slug State": "arkansas"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 2978204,
+      "Slug State": "arkansas"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 2966369,
+      "Slug State": "arkansas"
+    },
+    {
+      "ID State": "04000US05",
+      "State": "Arkansas",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 2959373,
+      "Slug State": "arkansas"
+    }
+  ],
+  "California": [
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 39512223,
+      "Slug State": "california"
+    },
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 39557045,
+      "Slug State": "california"
+    },
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 39536653,
+      "Slug State": "california"
+    },
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 39250017,
+      "Slug State": "california"
+    },
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 39144818,
+      "Slug State": "california"
+    },
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 38802500,
+      "Slug State": "california"
+    },
+    {
+      "ID State": "04000US06",
+      "State": "California",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 38332521,
+      "Slug State": "california"
+    }
+  ],
+  "Colorado": [
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 5758736,
+      "Slug State": "colorado"
+    },
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 5695564,
+      "Slug State": "colorado"
+    },
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 5607154,
+      "Slug State": "colorado"
+    },
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 5540545,
+      "Slug State": "colorado"
+    },
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 5456574,
+      "Slug State": "colorado"
+    },
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 5355866,
+      "Slug State": "colorado"
+    },
+    {
+      "ID State": "04000US08",
+      "State": "Colorado",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 5268367,
+      "Slug State": "colorado"
+    }
+  ],
+  "Connecticut": [
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3565287,
+      "Slug State": "connecticut"
+    },
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3572665,
+      "Slug State": "connecticut"
+    },
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 3588184,
+      "Slug State": "connecticut"
+    },
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 3576452,
+      "Slug State": "connecticut"
+    },
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 3590886,
+      "Slug State": "connecticut"
+    },
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 3596677,
+      "Slug State": "connecticut"
+    },
+    {
+      "ID State": "04000US09",
+      "State": "Connecticut",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 3596080,
+      "Slug State": "connecticut"
+    }
+  ],
+  "Delaware": [
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 973764,
+      "Slug State": "delaware"
+    },
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 967171,
+      "Slug State": "delaware"
+    },
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 961939,
+      "Slug State": "delaware"
+    },
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 952065,
+      "Slug State": "delaware"
+    },
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 945934,
+      "Slug State": "delaware"
+    },
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 935614,
+      "Slug State": "delaware"
+    },
+    {
+      "ID State": "04000US10",
+      "State": "Delaware",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 925749,
+      "Slug State": "delaware"
+    }
+  ],
+  "District of Columbia": [
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 705749,
+      "Slug State": "district-of-columbia"
+    },
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 702455,
+      "Slug State": "district-of-columbia"
+    },
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 693972,
+      "Slug State": "district-of-columbia"
+    },
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 681170,
+      "Slug State": "district-of-columbia"
+    },
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 672228,
+      "Slug State": "district-of-columbia"
+    },
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 658893,
+      "Slug State": "district-of-columbia"
+    },
+    {
+      "ID State": "04000US11",
+      "State": "District of Columbia",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 646449,
+      "Slug State": "district-of-columbia"
+    }
+  ],
+  "Florida": [
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 21477737,
+      "Slug State": "florida"
+    },
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 21299325,
+      "Slug State": "florida"
+    },
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 20984400,
+      "Slug State": "florida"
+    },
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 20612439,
+      "Slug State": "florida"
+    },
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 20271272,
+      "Slug State": "florida"
+    },
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 19893297,
+      "Slug State": "florida"
+    },
+    {
+      "ID State": "04000US12",
+      "State": "Florida",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 19552860,
+      "Slug State": "florida"
+    }
+  ],
+  "Georgia": [
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 10617423,
+      "Slug State": "georgia"
+    },
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 10519475,
+      "Slug State": "georgia"
+    },
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 10429379,
+      "Slug State": "georgia"
+    },
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 10310371,
+      "Slug State": "georgia"
+    },
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 10214860,
+      "Slug State": "georgia"
+    },
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 10097343,
+      "Slug State": "georgia"
+    },
+    {
+      "ID State": "04000US13",
+      "State": "Georgia",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 9992167,
+      "Slug State": "georgia"
+    }
+  ],
+  "Hawaii": [
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1415872,
+      "Slug State": "hawaii"
+    },
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1420491,
+      "Slug State": "hawaii"
+    },
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1427538,
+      "Slug State": "hawaii"
+    },
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1428557,
+      "Slug State": "hawaii"
+    },
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1431603,
+      "Slug State": "hawaii"
+    },
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1419561,
+      "Slug State": "hawaii"
+    },
+    {
+      "ID State": "04000US15",
+      "State": "Hawaii",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1404054,
+      "Slug State": "hawaii"
+    }
+  ],
+  "Idaho": [
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1787065,
+      "Slug State": "idaho"
+    },
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1754208,
+      "Slug State": "idaho"
+    },
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1716943,
+      "Slug State": "idaho"
+    },
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1683140,
+      "Slug State": "idaho"
+    },
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1654930,
+      "Slug State": "idaho"
+    },
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1634464,
+      "Slug State": "idaho"
+    },
+    {
+      "ID State": "04000US16",
+      "State": "Idaho",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1612136,
+      "Slug State": "idaho"
+    }
+  ],
+  "Illinois": [
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 12671821,
+      "Slug State": "illinois"
+    },
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 12741080,
+      "Slug State": "illinois"
+    },
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 12802023,
+      "Slug State": "illinois"
+    },
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 12801539,
+      "Slug State": "illinois"
+    },
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 12859995,
+      "Slug State": "illinois"
+    },
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 12880580,
+      "Slug State": "illinois"
+    },
+    {
+      "ID State": "04000US17",
+      "State": "Illinois",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 12882135,
+      "Slug State": "illinois"
+    }
+  ],
+  "Indiana": [
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 6732219,
+      "Slug State": "indiana"
+    },
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 6691878,
+      "Slug State": "indiana"
+    },
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 6666818,
+      "Slug State": "indiana"
+    },
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 6633053,
+      "Slug State": "indiana"
+    },
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 6619680,
+      "Slug State": "indiana"
+    },
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 6596855,
+      "Slug State": "indiana"
+    },
+    {
+      "ID State": "04000US18",
+      "State": "Indiana",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 6570902,
+      "Slug State": "indiana"
+    }
+  ],
+  "Iowa": [
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3155070,
+      "Slug State": "iowa"
+    },
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3156145,
+      "Slug State": "iowa"
+    },
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 3145711,
+      "Slug State": "iowa"
+    },
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 3134693,
+      "Slug State": "iowa"
+    },
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 3123899,
+      "Slug State": "iowa"
+    },
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 3107126,
+      "Slug State": "iowa"
+    },
+    {
+      "ID State": "04000US19",
+      "State": "Iowa",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 3090416,
+      "Slug State": "iowa"
+    }
+  ],
+  "Kansas": [
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 2913314,
+      "Slug State": "kansas"
+    },
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 2911510,
+      "Slug State": "kansas"
+    },
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 2913123,
+      "Slug State": "kansas"
+    },
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 2907289,
+      "Slug State": "kansas"
+    },
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 2911641,
+      "Slug State": "kansas"
+    },
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 2904021,
+      "Slug State": "kansas"
+    },
+    {
+      "ID State": "04000US20",
+      "State": "Kansas",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 2893957,
+      "Slug State": "kansas"
+    }
+  ],
+  "Kentucky": [
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 4467673,
+      "Slug State": "kentucky"
+    },
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 4468402,
+      "Slug State": "kentucky"
+    },
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 4454189,
+      "Slug State": "kentucky"
+    },
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 4436974,
+      "Slug State": "kentucky"
+    },
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 4425092,
+      "Slug State": "kentucky"
+    },
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 4413457,
+      "Slug State": "kentucky"
+    },
+    {
+      "ID State": "04000US21",
+      "State": "Kentucky",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 4395295,
+      "Slug State": "kentucky"
+    }
+  ],
+  "Louisiana": [
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 4648794,
+      "Slug State": "louisiana"
+    },
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 4659978,
+      "Slug State": "louisiana"
+    },
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 4684333,
+      "Slug State": "louisiana"
+    },
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 4681666,
+      "Slug State": "louisiana"
+    },
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 4670724,
+      "Slug State": "louisiana"
+    },
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 4649676,
+      "Slug State": "louisiana"
+    },
+    {
+      "ID State": "04000US22",
+      "State": "Louisiana",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 4625470,
+      "Slug State": "louisiana"
+    }
+  ],
+  "Maine": [
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1344212,
+      "Slug State": "maine"
+    },
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1338404,
+      "Slug State": "maine"
+    },
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1335907,
+      "Slug State": "maine"
+    },
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1331479,
+      "Slug State": "maine"
+    },
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1329328,
+      "Slug State": "maine"
+    },
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1330089,
+      "Slug State": "maine"
+    },
+    {
+      "ID State": "04000US23",
+      "State": "Maine",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1328302,
+      "Slug State": "maine"
+    }
+  ],
+  "Maryland": [
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 6045680,
+      "Slug State": "maryland"
+    },
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 6042718,
+      "Slug State": "maryland"
+    },
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 6052177,
+      "Slug State": "maryland"
+    },
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 6016447,
+      "Slug State": "maryland"
+    },
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 6006401,
+      "Slug State": "maryland"
+    },
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 5976407,
+      "Slug State": "maryland"
+    },
+    {
+      "ID State": "04000US24",
+      "State": "Maryland",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 5928814,
+      "Slug State": "maryland"
+    }
+  ],
+  "Massachusetts": [
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 6892503,
+      "Slug State": "massachusetts"
+    },
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 6902149,
+      "Slug State": "massachusetts"
+    },
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 6859819,
+      "Slug State": "massachusetts"
+    },
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 6811779,
+      "Slug State": "massachusetts"
+    },
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 6794422,
+      "Slug State": "massachusetts"
+    },
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 6745408,
+      "Slug State": "massachusetts"
+    },
+    {
+      "ID State": "04000US25",
+      "State": "Massachusetts",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 6692824,
+      "Slug State": "massachusetts"
+    }
+  ],
+  "Michigan": [
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 9986857,
+      "Slug State": "michigan"
+    },
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 9995915,
+      "Slug State": "michigan"
+    },
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 9962311,
+      "Slug State": "michigan"
+    },
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 9928300,
+      "Slug State": "michigan"
+    },
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 9922576,
+      "Slug State": "michigan"
+    },
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 9909877,
+      "Slug State": "michigan"
+    },
+    {
+      "ID State": "04000US26",
+      "State": "Michigan",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 9895622,
+      "Slug State": "michigan"
+    }
+  ],
+  "Minnesota": [
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 5639632,
+      "Slug State": "minnesota"
+    },
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 5611179,
+      "Slug State": "minnesota"
+    },
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 5576606,
+      "Slug State": "minnesota"
+    },
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 5519952,
+      "Slug State": "minnesota"
+    },
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 5489594,
+      "Slug State": "minnesota"
+    },
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 5457173,
+      "Slug State": "minnesota"
+    },
+    {
+      "ID State": "04000US27",
+      "State": "Minnesota",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 5420380,
+      "Slug State": "minnesota"
+    }
+  ],
+  "Mississippi": [
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 2976149,
+      "Slug State": "mississippi"
+    },
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 2986530,
+      "Slug State": "mississippi"
+    },
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 2984100,
+      "Slug State": "mississippi"
+    },
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 2988726,
+      "Slug State": "mississippi"
+    },
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 2992333,
+      "Slug State": "mississippi"
+    },
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 2994079,
+      "Slug State": "mississippi"
+    },
+    {
+      "ID State": "04000US28",
+      "State": "Mississippi",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 2991207,
+      "Slug State": "mississippi"
+    }
+  ],
+  "Missouri": [
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 6137428,
+      "Slug State": "missouri"
+    },
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 6126452,
+      "Slug State": "missouri"
+    },
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 6113532,
+      "Slug State": "missouri"
+    },
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 6093000,
+      "Slug State": "missouri"
+    },
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 6083672,
+      "Slug State": "missouri"
+    },
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 6063589,
+      "Slug State": "missouri"
+    },
+    {
+      "ID State": "04000US29",
+      "State": "Missouri",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 6044171,
+      "Slug State": "missouri"
+    }
+  ],
+  "Montana": [
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1068778,
+      "Slug State": "montana"
+    },
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1062305,
+      "Slug State": "montana"
+    },
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1050493,
+      "Slug State": "montana"
+    },
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1042520,
+      "Slug State": "montana"
+    },
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1032949,
+      "Slug State": "montana"
+    },
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1023579,
+      "Slug State": "montana"
+    },
+    {
+      "ID State": "04000US30",
+      "State": "Montana",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1015165,
+      "Slug State": "montana"
+    }
+  ],
+  "Nebraska": [
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1934408,
+      "Slug State": "nebraska"
+    },
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1929268,
+      "Slug State": "nebraska"
+    },
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1920076,
+      "Slug State": "nebraska"
+    },
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1907116,
+      "Slug State": "nebraska"
+    },
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1896190,
+      "Slug State": "nebraska"
+    },
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1881503,
+      "Slug State": "nebraska"
+    },
+    {
+      "ID State": "04000US31",
+      "State": "Nebraska",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1868516,
+      "Slug State": "nebraska"
+    }
+  ],
+  "Nevada": [
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3080156,
+      "Slug State": "nevada"
+    },
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3034392,
+      "Slug State": "nevada"
+    },
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 2998039,
+      "Slug State": "nevada"
+    },
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 2940058,
+      "Slug State": "nevada"
+    },
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 2890845,
+      "Slug State": "nevada"
+    },
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 2839099,
+      "Slug State": "nevada"
+    },
+    {
+      "ID State": "04000US32",
+      "State": "Nevada",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 2790136,
+      "Slug State": "nevada"
+    }
+  ],
+  "New Hampshire": [
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1359711,
+      "Slug State": "new-hampshire"
+    },
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1356458,
+      "Slug State": "new-hampshire"
+    },
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1342795,
+      "Slug State": "new-hampshire"
+    },
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1334795,
+      "Slug State": "new-hampshire"
+    },
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1330608,
+      "Slug State": "new-hampshire"
+    },
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1326813,
+      "Slug State": "new-hampshire"
+    },
+    {
+      "ID State": "04000US33",
+      "State": "New Hampshire",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1323459,
+      "Slug State": "new-hampshire"
+    }
+  ],
+  "New Jersey": [
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 8882190,
+      "Slug State": "new-jersey"
+    },
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 8908520,
+      "Slug State": "new-jersey"
+    },
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 9005644,
+      "Slug State": "new-jersey"
+    },
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 8944469,
+      "Slug State": "new-jersey"
+    },
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 8958013,
+      "Slug State": "new-jersey"
+    },
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 8938175,
+      "Slug State": "new-jersey"
+    },
+    {
+      "ID State": "04000US34",
+      "State": "New Jersey",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 8899339,
+      "Slug State": "new-jersey"
+    }
+  ],
+  "New Mexico": [
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 2096829,
+      "Slug State": "new-mexico"
+    },
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 2095428,
+      "Slug State": "new-mexico"
+    },
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 2088070,
+      "Slug State": "new-mexico"
+    },
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 2081015,
+      "Slug State": "new-mexico"
+    },
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 2085109,
+      "Slug State": "new-mexico"
+    },
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 2085572,
+      "Slug State": "new-mexico"
+    },
+    {
+      "ID State": "04000US35",
+      "State": "New Mexico",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 2085287,
+      "Slug State": "new-mexico"
+    }
+  ],
+  "New York": [
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 19453561,
+      "Slug State": "new-york"
+    },
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 19542209,
+      "Slug State": "new-york"
+    },
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 19849399,
+      "Slug State": "new-york"
+    },
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 19745289,
+      "Slug State": "new-york"
+    },
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 19795791,
+      "Slug State": "new-york"
+    },
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 19746227,
+      "Slug State": "new-york"
+    },
+    {
+      "ID State": "04000US36",
+      "State": "New York",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 19651127,
+      "Slug State": "new-york"
+    }
+  ],
+  "North Carolina": [
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 10488084,
+      "Slug State": "north-carolina"
+    },
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 10383620,
+      "Slug State": "north-carolina"
+    },
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 10273419,
+      "Slug State": "north-carolina"
+    },
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 10146788,
+      "Slug State": "north-carolina"
+    },
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 10042802,
+      "Slug State": "north-carolina"
+    },
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 9943964,
+      "Slug State": "north-carolina"
+    },
+    {
+      "ID State": "04000US37",
+      "State": "North Carolina",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 9848060,
+      "Slug State": "north-carolina"
+    }
+  ],
+  "North Dakota": [
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 762062,
+      "Slug State": "north-dakota"
+    },
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 760077,
+      "Slug State": "north-dakota"
+    },
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 755393,
+      "Slug State": "north-dakota"
+    },
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 757953,
+      "Slug State": "north-dakota"
+    },
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 756928,
+      "Slug State": "north-dakota"
+    },
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 739482,
+      "Slug State": "north-dakota"
+    },
+    {
+      "ID State": "04000US38",
+      "State": "North Dakota",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 723393,
+      "Slug State": "north-dakota"
+    }
+  ],
+  "Ohio": [
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 11689100,
+      "Slug State": "ohio"
+    },
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 11689442,
+      "Slug State": "ohio"
+    },
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 11658609,
+      "Slug State": "ohio"
+    },
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 11614373,
+      "Slug State": "ohio"
+    },
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 11613423,
+      "Slug State": "ohio"
+    },
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 11594163,
+      "Slug State": "ohio"
+    },
+    {
+      "ID State": "04000US39",
+      "State": "Ohio",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 11570808,
+      "Slug State": "ohio"
+    }
+  ],
+  "Oklahoma": [
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3956971,
+      "Slug State": "oklahoma"
+    },
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3943079,
+      "Slug State": "oklahoma"
+    },
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 3930864,
+      "Slug State": "oklahoma"
+    },
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 3923561,
+      "Slug State": "oklahoma"
+    },
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 3911338,
+      "Slug State": "oklahoma"
+    },
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 3878051,
+      "Slug State": "oklahoma"
+    },
+    {
+      "ID State": "04000US40",
+      "State": "Oklahoma",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 3850568,
+      "Slug State": "oklahoma"
+    }
+  ],
+  "Oregon": [
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 4217737,
+      "Slug State": "oregon"
+    },
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 4190713,
+      "Slug State": "oregon"
+    },
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 4142776,
+      "Slug State": "oregon"
+    },
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 4093465,
+      "Slug State": "oregon"
+    },
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 4028977,
+      "Slug State": "oregon"
+    },
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 3970239,
+      "Slug State": "oregon"
+    },
+    {
+      "ID State": "04000US41",
+      "State": "Oregon",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 3930065,
+      "Slug State": "oregon"
+    }
+  ],
+  "Pennsylvania": [
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 12801989,
+      "Slug State": "pennsylvania"
+    },
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 12807060,
+      "Slug State": "pennsylvania"
+    },
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 12805537,
+      "Slug State": "pennsylvania"
+    },
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 12784227,
+      "Slug State": "pennsylvania"
+    },
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 12802503,
+      "Slug State": "pennsylvania"
+    },
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 12787209,
+      "Slug State": "pennsylvania"
+    },
+    {
+      "ID State": "04000US42",
+      "State": "Pennsylvania",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 12773801,
+      "Slug State": "pennsylvania"
+    }
+  ],
+  "Rhode Island": [
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1059361,
+      "Slug State": "rhode-island"
+    },
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1057315,
+      "Slug State": "rhode-island"
+    },
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1059639,
+      "Slug State": "rhode-island"
+    },
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1056426,
+      "Slug State": "rhode-island"
+    },
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1056298,
+      "Slug State": "rhode-island"
+    },
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1055173,
+      "Slug State": "rhode-island"
+    },
+    {
+      "ID State": "04000US44",
+      "State": "Rhode Island",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1051511,
+      "Slug State": "rhode-island"
+    }
+  ],
+  "South Carolina": [
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 5148714,
+      "Slug State": "south-carolina"
+    },
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 5084127,
+      "Slug State": "south-carolina"
+    },
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 5024369,
+      "Slug State": "south-carolina"
+    },
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 4961119,
+      "Slug State": "south-carolina"
+    },
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 4896146,
+      "Slug State": "south-carolina"
+    },
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 4832482,
+      "Slug State": "south-carolina"
+    },
+    {
+      "ID State": "04000US45",
+      "State": "South Carolina",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 4774839,
+      "Slug State": "south-carolina"
+    }
+  ],
+  "South Dakota": [
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 884659,
+      "Slug State": "south-dakota"
+    },
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 882235,
+      "Slug State": "south-dakota"
+    },
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 869666,
+      "Slug State": "south-dakota"
+    },
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 865454,
+      "Slug State": "south-dakota"
+    },
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 858469,
+      "Slug State": "south-dakota"
+    },
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 853175,
+      "Slug State": "south-dakota"
+    },
+    {
+      "ID State": "04000US46",
+      "State": "South Dakota",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 844877,
+      "Slug State": "south-dakota"
+    }
+  ],
+  "Tennessee": [
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 6829174,
+      "Slug State": "tennessee"
+    },
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 6770010,
+      "Slug State": "tennessee"
+    },
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 6715984,
+      "Slug State": "tennessee"
+    },
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 6651194,
+      "Slug State": "tennessee"
+    },
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 6600299,
+      "Slug State": "tennessee"
+    },
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 6549352,
+      "Slug State": "tennessee"
+    },
+    {
+      "ID State": "04000US47",
+      "State": "Tennessee",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 6495978,
+      "Slug State": "tennessee"
+    }
+  ],
+  "Texas": [
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 28995881,
+      "Slug State": "texas"
+    },
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 28701845,
+      "Slug State": "texas"
+    },
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 28304596,
+      "Slug State": "texas"
+    },
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 27862596,
+      "Slug State": "texas"
+    },
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 27469114,
+      "Slug State": "texas"
+    },
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 26956958,
+      "Slug State": "texas"
+    },
+    {
+      "ID State": "04000US48",
+      "State": "Texas",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 26448193,
+      "Slug State": "texas"
+    }
+  ],
+  "Utah": [
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3205958,
+      "Slug State": "utah"
+    },
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3161105,
+      "Slug State": "utah"
+    },
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 3101833,
+      "Slug State": "utah"
+    },
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 3051217,
+      "Slug State": "utah"
+    },
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 2995919,
+      "Slug State": "utah"
+    },
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 2942902,
+      "Slug State": "utah"
+    },
+    {
+      "ID State": "04000US49",
+      "State": "Utah",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 2900872,
+      "Slug State": "utah"
+    }
+  ],
+  "Vermont": [
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 623989,
+      "Slug State": "vermont"
+    },
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 626299,
+      "Slug State": "vermont"
+    },
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 623657,
+      "Slug State": "vermont"
+    },
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 624594,
+      "Slug State": "vermont"
+    },
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 626042,
+      "Slug State": "vermont"
+    },
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 626562,
+      "Slug State": "vermont"
+    },
+    {
+      "ID State": "04000US50",
+      "State": "Vermont",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 626630,
+      "Slug State": "vermont"
+    }
+  ],
+  "Virginia": [
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 8535519,
+      "Slug State": "virginia"
+    },
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 8517685,
+      "Slug State": "virginia"
+    },
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 8470020,
+      "Slug State": "virginia"
+    },
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 8411808,
+      "Slug State": "virginia"
+    },
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 8382993,
+      "Slug State": "virginia"
+    },
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 8326289,
+      "Slug State": "virginia"
+    },
+    {
+      "ID State": "04000US51",
+      "State": "Virginia",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 8260405,
+      "Slug State": "virginia"
+    }
+  ],
+  "Washington": [
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 7614893,
+      "Slug State": "washington"
+    },
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 7535591,
+      "Slug State": "washington"
+    },
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 7405743,
+      "Slug State": "washington"
+    },
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 7288000,
+      "Slug State": "washington"
+    },
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 7170351,
+      "Slug State": "washington"
+    },
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 7061530,
+      "Slug State": "washington"
+    },
+    {
+      "ID State": "04000US53",
+      "State": "Washington",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 6971406,
+      "Slug State": "washington"
+    }
+  ],
+  "West Virginia": [
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 1792147,
+      "Slug State": "west-virginia"
+    },
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 1805832,
+      "Slug State": "west-virginia"
+    },
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 1815857,
+      "Slug State": "west-virginia"
+    },
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 1831102,
+      "Slug State": "west-virginia"
+    },
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 1844128,
+      "Slug State": "west-virginia"
+    },
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 1850326,
+      "Slug State": "west-virginia"
+    },
+    {
+      "ID State": "04000US54",
+      "State": "West Virginia",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 1854304,
+      "Slug State": "west-virginia"
+    }
+  ],
+  "Wisconsin": [
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 5822434,
+      "Slug State": "wisconsin"
+    },
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 5813568,
+      "Slug State": "wisconsin"
+    },
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 5795483,
+      "Slug State": "wisconsin"
+    },
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 5778709,
+      "Slug State": "wisconsin"
+    },
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 5771337,
+      "Slug State": "wisconsin"
+    },
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 5757564,
+      "Slug State": "wisconsin"
+    },
+    {
+      "ID State": "04000US55",
+      "State": "Wisconsin",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 5742713,
+      "Slug State": "wisconsin"
+    }
+  ],
+  "Wyoming": [
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 578759,
+      "Slug State": "wyoming"
+    },
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 577737,
+      "Slug State": "wyoming"
+    },
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 579315,
+      "Slug State": "wyoming"
+    },
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 585501,
+      "Slug State": "wyoming"
+    },
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 586107,
+      "Slug State": "wyoming"
+    },
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 584153,
+      "Slug State": "wyoming"
+    },
+    {
+      "ID State": "04000US56",
+      "State": "Wyoming",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 582658,
+      "Slug State": "wyoming"
+    }
+  ],
+  "Puerto Rico": [
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2019,
+      "Year": "2019",
+      "Population": 3193694,
+      "Slug State": "puerto-rico"
+    },
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2018,
+      "Year": "2018",
+      "Population": 3195153,
+      "Slug State": "puerto-rico"
+    },
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2017,
+      "Year": "2017",
+      "Population": 3337177,
+      "Slug State": "puerto-rico"
+    },
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2016,
+      "Year": "2016",
+      "Population": 3411307,
+      "Slug State": "puerto-rico"
+    },
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2015,
+      "Year": "2015",
+      "Population": 3474182,
+      "Slug State": "puerto-rico"
+    },
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2014,
+      "Year": "2014",
+      "Population": 3548397,
+      "Slug State": "puerto-rico"
+    },
+    {
+      "ID State": "04000US72",
+      "State": "Puerto Rico",
+      "ID Year": 2013,
+      "Year": "2013",
+      "Population": 3615086,
+      "Slug State": "puerto-rico"
+    }
+  ]
+}
