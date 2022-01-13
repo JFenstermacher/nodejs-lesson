@@ -108,6 +108,33 @@ const retrieveCategoryOneItems = (projects) => {
   return filteredProjects;
 }
 
+// Pull out IDs from projects array
+const getProjectIds = (projects) => {
+  const projectIds = [];
+
+  for (const project of projects) {
+    projectIds.push(project.id);
+  }
+  
+  return projectIds;
+}
+
+// More idiomatic approach using array function
+const getProjectIds2 = (projects) => {
+  // Using map function
+  const projectIds = projects.map((project) => project.id);
+
+  return projectIds;
+}
+
+// Even more idiomatic
+const getProjectIds3 = (projects) => {
+  // Using map function + destructuring
+  const projectIds = projects.map(({ id }) => id);
+
+  return projectIds;
+}
+
 // The output will be the following
 // {
 //    "Project One": 1,
